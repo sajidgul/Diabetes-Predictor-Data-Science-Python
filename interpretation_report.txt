@@ -1,0 +1,10 @@
+
+Interpretation Report and Insights
+
+Top Features Identified:
+- Random Forest: Features with high importance scores.
+- Logistic Regression: Features with large positive or negative coefficients.
+
+Actionable Insights:
+- Features like glucose levels, BMI, and age might be the most important factors in predicting diabetes.
+- Health interventions could focus on these key areas to reduce the risk of diabetes.
